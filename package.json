@@ -1,6 +1,6 @@
 {
   "name": "wsaml",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Compiles .wsaml files into .html files.",
   "main": "index.js",
   "scripts": {
