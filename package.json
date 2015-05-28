@@ -11,7 +11,7 @@
   "preferGlobal": true,
   "bin": {
     "wsaml": "final.js"
-  }
+  },
   "repository" :
   { "type" : "git"
   , "url" : "https://github.com/whodgesdevelopment/wsaml.git"
