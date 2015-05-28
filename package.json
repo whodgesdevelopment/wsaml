@@ -1,0 +1,19 @@
+{
+  "name": "wsaml",
+  "version": "0.0.2",
+  "description": "Compiles .wsaml files into .html files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "W.Hodges Development",
+  "license": "CC-BY-NC-ND-4.0",
+  "preferGlobal": true,
+  "bin": {
+    "wsaml": "final.js"
+  }
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/npm/npm.git"
+  }
+}
